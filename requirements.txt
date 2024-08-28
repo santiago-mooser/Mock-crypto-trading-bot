@@ -1,0 +1,10 @@
+ujson
+ccxt
+
+
+# Bitso
+websockets
+
+# bybit
+pybit
+pycryptodome
